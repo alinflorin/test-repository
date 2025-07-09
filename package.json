@@ -3,5 +3,6 @@
     "logoutOauth": "2.0",
     "express": "2.0",
     "primeng": "7.0",
-    "lib1": "1.0"
+    "lib1": "1.0",
+    "lib2": "2.0"
 }
